@@ -1,4 +1,4 @@
-## Algorithmic Trading
+## Algorithmic Training
 
 기본 알고리즘 문제입니다.
 
